@@ -44,7 +44,7 @@
 
 <div>
 
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://ThalesBolivar.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
 
 <div align="center">
 <table>
@@ -90,24 +90,24 @@
 </tr> 
 <tr>
 <td>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThalesBolivar&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThalesBolivar&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThalesBolivar&theme=github_dark"/>
 </td>
 </tr>
 <tr>
 <td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark&utcOffset=8"/>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThalesBolivar&theme=github_dark&utcOffset=8"/>
 </td>
 <td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopauloaramuni&theme=github_dark"/>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThalesBolivar&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=joaopauloaramuni&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=ThalesBolivar&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 </td>
 </tr>
 <tr>
