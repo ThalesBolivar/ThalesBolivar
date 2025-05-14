@@ -68,12 +68,12 @@
 </table>
 <table>
 <tr>
- <td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
+ <td align="center">:octocat: <a href="https://www.githubwrapped.io/ThalesBolivar" target="_blank">GitHub Wrapped</a></td>
  <td align="center">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
 </tr>
 <tr>
 <td>
-<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/ThalesBolivar/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
 </td>
 <td>
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
@@ -120,7 +120,7 @@
  <td align="center"></td>
 </tr>
 <tr>
- <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
+ <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://ThalesBolivar.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
 </tr>
 <tr>
  <td align="center"></td>
